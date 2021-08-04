@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Feito por Marco Antônio Ribeiro de Toledo, RA: 11796419 e Lourenço de Salles Roselino, RA: 11796805
+
 from GrafoDir import Grafo
 import math
 
